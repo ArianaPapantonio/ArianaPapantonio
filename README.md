@@ -5,10 +5,10 @@ I'm a Data Analyst passionate about transforming data into meaningful insights. 
 ## 🛠️ Tools & Technologies
 
 - Python (Pandas, NumPy, Matplotlib)
-- SQL (MySQL, PostgreSQL)
+- SQL (MySQL)
 - Data Visualization (Tableau, Power BI)
 - Git & GitHub
-- Excel
+- Excel & Sheets
 
 ## 📈 Projects
 
@@ -20,6 +20,12 @@ Here are some of my data analysis projects:
 ## 🚀 Let's Connect!
 
 Feel free to reach out if you'd like to collaborate or if you have any questions about my work!  
-- LinkedIn: [Ariana Papantonio](https://www.linkedin.com/in/arianapapantonio/)
-- Email: [arianapapantonio@gmail.com](mailto:arianapapantonio@gmail.com)
+- <a href="https://www.linkedin.com/in/arianapapantonio/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+- <a href="mailto:arianapapantonio@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
 
