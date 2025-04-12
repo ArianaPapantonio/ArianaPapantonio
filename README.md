@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I'm Ariana Papantonio
 
-<!--
-**ArianaPapantonio/ArianaPapantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst passionate about transforming data into meaningful insights. My expertise lies in working with data analysis tools and visualizations to drive business decisions.
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (MySQL, PostgreSQL)
+- Data Visualization (Tableau, Power BI)
+- Git & GitHub
+- Excel
+
+## 📈 Projects
+
+Here are some of my data analysis projects:
+
+- [**Sales Dashboard**](https://github.com/ArianaPapantonio/sales-dashboard) - A comprehensive dashboard showcasing sales trends and insights.
+- [**Customer Segmentation**](https://github.com/ArianaPapantonio/customer-segmentation) - A project to segment customers based on purchasing behavior.
+
+## 🚀 Let's Connect!
+
+Feel free to reach out if you'd like to collaborate or if you have any questions about my work!  
+- LinkedIn: [Ariana Papantonio](https://www.linkedin.com/in/arianapapantonio/)
+- Email: [arianapapantonio@gmail.com](mailto:arianapapantonio@gmail.com)
+
