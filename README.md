@@ -14,8 +14,7 @@ I'm a Data Analyst passionate about transforming data into meaningful insights. 
 
 Here are some of my data analysis projects:
 
-- [**Sales Dashboard**](https://github.com/ArianaPapantonio/Online_Sales_Dataset) - A project analyzing sales data to identify key trends, customer behavior, and performance metrics.
-
+- [**Sales Dashboard**](https://github.com/ArianaPapantonio/Online_Sales_Dataset/blob/main/README.md) - A project analyzing sales data to identify key trends, customer behavior, and performance metrics.
 
 ## 🚀 Let's Connect!
 
