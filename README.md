@@ -2,23 +2,27 @@
 
 I'm a Data Analyst passionate about transforming data into meaningful insights. My expertise lies in working with data analysis tools and visualizations to drive business decisions.
 
+
 ## 🛠️ Tools & Technologies
 
 - Python (Pandas, NumPy, Matplotlib)
-- SQL (MySQL)
+- SQL (MySQL) & BigQuery 
 - Data Visualization (Tableau, Power BI)
 - Git & GitHub
+- R
 - Excel & Sheets
+
 
 ## 📈 Projects
 
 Here are some of my data analysis projects:
 
+- [**Financial Analysis of Tech Giants**](https://github.com/ArianaPapantonio/Financial_Analysis_of_Tech_Giants)  
+  A Python project using API data to compare revenue, net income, and growth trends across Apple, Amazon, Google, Meta, and Microsoft (2020–2024), with visualizations in Matplotlib & Seaborn.
+
 - [**Sales Dashboard**](https://github.com/ArianaPapantonio/Online_Sales_Dataset)  
   Analyzing sales data to identify key trends, customer behavior, and performance metrics.
 
-- [**Financial Analysis of Tech Giants**](https://github.com/ArianaPapantonio/Financial_Analysis_of_Tech_Giants)  
-  A Python project using API data to compare revenue, net income, and growth trends across Apple, Amazon, Google, Meta, and Microsoft (2020–2024), with visualizations in Matplotlib & Seaborn.
 
 ## 🚀 Let's Connect!
 
