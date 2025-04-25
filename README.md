@@ -13,15 +13,23 @@ I'm a Data Analyst passionate about transforming data into meaningful insights. 
 - Excel & Sheets
 
 
-## 📈 Projects
+## 📈 Personal projects
 
 Here are some of my data analysis projects:
 
 - [**Financial Analysis of Tech Giants**](https://github.com/ArianaPapantonio/Financial_Analysis_of_Tech_Giants)  
-  A Python project using API data to compare revenue, net income, and growth trends across Apple, Amazon, Google, Meta, and Microsoft (2020–2024), with visualizations in Matplotlib & Seaborn.
+  A **Python** project using **API** data to compare revenue, net income, and growth trends across Apple, Amazon, Google, Meta, and Microsoft (2020–2024), with visualizations in **Matplotlib** & **Seaborn**.
 
 - [**Sales Dashboard**](https://github.com/ArianaPapantonio/Online_Sales_Dataset)  
-  Analyzing sales data to identify key trends, customer behavior, and performance metrics.
+  An analysis of online sales data using **Python**, **Pandas**, and **SQL**, with interactive visualizations built in **Power BI**.
+
+
+
+### 🧑‍🏫 Bootcamp Projects
+
+- [**Proud Travelers**](https://github.com/ArianaPapantonio/Proud_travelers)  
+  Final project for the Adalab Data Analytics Bootcamp.  
+  A global analysis of LGTBIQA+ rights and safety using external data sources, **Python** for EDA, and interactive dashboards built with **Power BI**.
 
 
 ## 🚀 Let's Connect!
