@@ -27,11 +27,15 @@ Here are some of my data analysis projects:
 
 ### 🧑‍🏫 Bootcamp Projects
 
-- [**Final Project Module 1 - Classic Games in Python**](https://github.com/ArianaPapantonio/Final_project_module_1)  
+- [**Final Project Module 1 – Classic Games in Python**](https://github.com/ArianaPapantonio/Final_project_module_1)  
   Final project for Module 1 of the Adalab Data Analytics Bootcamp.  
   A collection of classic games developed in **Python** using structured programming, object-oriented programming, and logic handling through interactive console applications.
 
-- [**Final Project Module 4 - Proud Travelers**](https://github.com/ArianaPapantonio/Proud_travelers)  
+- [**Final Project Module 2 – MusicStream**](https://github.com/ArianaPapantonio/Final_project_module_2)  
+  Final project for Module 2 of the Adalab Data Analytics Bootcamp.  
+  Music data was extracted from multiple public **APIs** (Spotify, MusicBrainz, Last.fm), processed through an **ETL pipeline** built in **Python**, stored in a **MySQL** database, and analyzed using SQL queries to uncover trends in song and artist popularity.
+
+- [**Final Project Module 4 – Proud Travelers**](https://github.com/ArianaPapantonio/Proud_travelers)  
   Final project for the Adalab Data Analytics Bootcamp.  
   A global analysis of LGTBIQA+ rights and safety using external data sources, **Python** for EDA, and interactive dashboards built with **Power BI**.
 
