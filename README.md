@@ -31,9 +31,13 @@ Here are some of my data analysis projects:
   Final project for Module 1 of the Adalab Data Analytics Bootcamp.  
   A collection of classic games developed in **Python** using structured programming, object-oriented programming, and logic handling through interactive console applications.
 
-- [**Final Project Module 2 – MusicStream**](https://github.com/ArianaPapantonio/Final_project_module_2)  
+- [**Final Project Module 2 – Music Streaming APIs**](https://github.com/ArianaPapantonio/Final_project_module_2)  
   Final project for Module 2 of the Adalab Data Analytics Bootcamp.  
   Music data was extracted from multiple public **APIs** (Spotify, MusicBrainz, Last.fm), processed through an **ETL pipeline** built in **Python**, stored in a **MySQL** database, and analyzed using SQL queries to uncover trends in song and artist popularity.
+
+- [**Final Project Module 3 – Employee Satisfaction & Retention Analysis**](https://github.com/ArianaPapantonio/Final_project_module_3)  
+  Final project for Module 3 of the Adalab Data Analytics Bootcamp.  
+  An internal HR dataset was analyzed to identify factors impacting job satisfaction and turnover. The project included **EDA**, **data cleaning**, **SQL database design**, **ETL scripting**, and **A/B testing** to guide data-driven decision-making.
 
 - [**Final Project Module 4 – Proud Travelers**](https://github.com/ArianaPapantonio/Proud_travelers)  
   Final project for the Adalab Data Analytics Bootcamp.  
