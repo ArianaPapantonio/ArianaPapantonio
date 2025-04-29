@@ -31,7 +31,7 @@ Here are some of my data analysis projects:
   Final project for Module 1 of the Adalab Data Analytics Bootcamp.  
   A collection of classic games developed in **Python** using structured programming, object-oriented programming, and logic handling through interactive console applications.
 
-- [**Final Project Module 1 - Proud Travelers**](https://github.com/ArianaPapantonio/Proud_travelers)  
+- [**Final Project Module 4 - Proud Travelers**](https://github.com/ArianaPapantonio/Proud_travelers)  
   Final project for the Adalab Data Analytics Bootcamp.  
   A global analysis of LGTBIQA+ rights and safety using external data sources, **Python** for EDA, and interactive dashboards built with **Power BI**.
 
