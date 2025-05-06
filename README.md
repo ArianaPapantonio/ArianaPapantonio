@@ -17,6 +17,9 @@ I'm a Data Analyst passionate about transforming data into meaningful insights. 
 
 Here are some of my data analysis projects:
 
+- [**Barcelona Housing Analysis**](https://github.com/ArianaPapantonio/Barcelona_Housing_Analysis)  
+  A full data project analyzing housing listings across Barcelona. Data was cleaned in **Google Sheets**, analyzed with **SQL (MySQL)**, and visualized in an interactive dashboard using **Tableau Public**.
+
 - [**Financial Analysis of Tech Giants**](https://github.com/ArianaPapantonio/Financial_Analysis_of_Tech_Giants)  
   A **Python** project using **API** data to compare revenue, net income, and growth trends across Apple, Amazon, Google, Meta, and Microsoft (2020–2024), with visualizations in **Matplotlib** & **Seaborn**.
 
