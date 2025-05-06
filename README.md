@@ -25,7 +25,7 @@ Here are some of my data analysis projects:
 
 
 
-### 🧑‍🏫 Bootcamp Projects
+## 🧑‍🏫 Bootcamp Projects
 
 - [**Final Project Module 1 – Classic Games in Python**](https://github.com/ArianaPapantonio/Final_project_module_1)  
   Final project for Module 1 of the Adalab Data Analytics Bootcamp.  
