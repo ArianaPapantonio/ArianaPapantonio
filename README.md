@@ -6,12 +6,12 @@ I'm a **Data Analyst** passionate about turning data into meaningful insights. I
 
 ## 🛠️ Tools & Technologies
 
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **SQL** (MySQL) & BigQuery
-- **Data Visualization** (Tableau, Power BI)
-- **Git & GitHub**
-- **R**
-- **Excel & Google Sheets**
+**Programming & Analysis:** Python (Pandas, NumPy), R  
+**Databases & Querying:** SQL, MySQL, BigQuery  
+**Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Looker Studio  
+**Tools & Platforms:** Git, GitHub, Jupyter Notebooks, Google Cloud Platform  
+**Data Handling:** APIs, ETL pipelines, data cleaning & transformation  
+**Spreadsheets:** Excel, Google Sheets
 
 ---
 
