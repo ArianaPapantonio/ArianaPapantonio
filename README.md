@@ -32,6 +32,8 @@ Here are some of the data projects I've worked on:
 
 ## 🎓 Bootcamp Projects (Adalab)
 
+These were the final projects for each module of the **Adalab Data Analytics Bootcamp**, combining data sources, analysis, and visualization tools:
+
 - [**Module 1 – Classic Games in Python**](https://github.com/ArianaPapantonio/Final_project_module_1)  
   Developed interactive console games using **structured and object-oriented programming** in Python.
 
@@ -43,6 +45,21 @@ Here are some of the data projects I've worked on:
 
 - [**Module 4 – Proud Travelers**](https://github.com/ArianaPapantonio/Proud_travelers)  
   A global LGTBIQA+ travel safety analysis using external datasets. Conducted EDA in **Python** and developed an interactive **Power BI** dashboard.
+
+---
+
+## 🧪 Bootcamp Module Evaluations
+
+These are the technical evaluations completed individually at the end of each bootcamp module:
+
+- [**Module 1 Evaluation – Veterinary Online Store**](https://github.com/ArianaPapantonio/Module_1_Evaluation)  
+  A command-line store management system using **object-oriented Python**, including inventory, client management, and purchase processing.
+
+- [**Module 2 Evaluation – Sakila SQL Analysis**](https://github.com/ArianaPapantonio/Module_2_Evaluation)  
+  SQL queries to explore and analyze the **Sakila** movie rental database using **joins**, **aggregations**, **subqueries**, and **CTEs**.
+
+- [**Module 3 Evaluation – Airline Loyalty Program**](https://github.com/ArianaPapantonio/Module_3_Evaluation)  
+  Data cleaning, transformation, and statistical testing with **Pandas**, **Seaborn**, and **SciPy** to analyze customer behavior in a loyalty program.
 
 ---
 
